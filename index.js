@@ -5,15 +5,15 @@ function destructivelyAppendKitten(name) {
 }
 
 function destructivelyPrependKitten(name) {
-  
+  destructivelyPrependKitten("Bob");
 }
 
 function destructivelyRemoveLastKitten() {
-  
+  destructivelyRemoveLastKitten("Garfield");
 }
 
 function destructivelyRemoveFirstKitten() {
-  
+  destructivelyRemoveFirstKitten("Milo");
 }
 
 function appendKitten(name) {
